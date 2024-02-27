@@ -28,8 +28,8 @@ const Portfolio = () => {
     {
       id: 5,
       src: netflixclone,
-      demoLink: "#",
-      codeLink: "#",
+      demoLink: "https://ayushchouksey.pythonanywhere.com/",
+      codeLink: "https://github.com/Ayu727575/django_netflix_clone",
     },
     {
       id: 6,
